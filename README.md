@@ -11,16 +11,16 @@ CURSOS LINK 👇
 
 |  #  | Projeto                                                                                                      | Youtube Link    |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Cards Designs-1]()      | Clique aqui |
-| 02  | [Cards Designs-2]()      | Clique aqui |
-| 03  | [Cards Designs-3]()      | Clique aqui |
-| 04  | [Cards Designs-4]()      | Clique aqui |
-| 05  | [Cards Designs-5]()      | Clique aqui |
-| 06  | [Cards Designs-6]()      | Clique aqui |
-| 07  | [Cards Designs-7]()      | Clique aqui |
-| 08  | [Cards Designs-8]()      | Clique aqui |
-| 09  | [Cards Designs-9]()      | Clique aqui |
-| 10  | [Cards Designs-10]()      | Clique aqui |
+| 01  | [Cards Designs-1](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-01)      | Clique aqui |
+| 02  | [Cards Designs-2](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-02)      | Clique aqui |
+| 03  | [Cards Designs-3](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-03)      | Clique aqui |
+| 04  | [Cards Designs-4](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-04)      | Clique aqui |
+| 05  | [Cards Designs-5](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-05)      | Clique aqui |
+| 06  | [Cards Designs-6](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-06)      | Clique aqui |
+| 07  | [Cards Designs-7](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-07)      | Clique aqui |
+| 08  | [Cards Designs-8](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-08)      | Clique aqui |
+| 09  | [Cards Designs-9](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-09)      | Clique aqui |
+| 10  | [Cards Designs-10](https://github.com/johnpires/05-Cards-Designs/tree/main/Cards-Designs-10)      | Clique aqui |
 
 
 <br>
